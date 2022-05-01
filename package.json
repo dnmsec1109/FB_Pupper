@@ -1,0 +1,22 @@
+{
+  "name": "fb_pupper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnmsec1109/FB_Pupper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnmsec1109/FB_Pupper/issues"
+  },
+  "homepage": "https://github.com/dnmsec1109/FB_Pupper#readme",
+  "dependencies": {
+    "puppeteer": "^13.7.0"
+  }
+}
